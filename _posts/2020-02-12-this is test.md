@@ -11,3 +11,4 @@ tags:								#标签
 ---
 ## Hey
 >this is test.
+![](http://i2.tiimg.com/709473/edbe59d1e6eba6ba.jpg)
