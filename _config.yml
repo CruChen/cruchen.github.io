@@ -99,7 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "ranran",
+        title: "Shy",
         href: "#"
     },{
         title: "Mi",
